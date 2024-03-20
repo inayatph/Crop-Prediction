@@ -6,4 +6,4 @@ This project focuses on utilizing machine learning techniques for crop classific
 - Hyperparameter Tuning: Hyperparameters are fine-tuned to enhance the model's accuracy and efficiency.
 - Streamlit App: Provides an interactive web application built with Streamlit for easy visualization and usage of the classification model.
 
-- ## Streamlit Screenshot
+## Streamlit Screenshot
