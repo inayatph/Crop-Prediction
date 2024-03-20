@@ -1,5 +1,7 @@
 # Crop Prediction Using Machine Learning 
-This project focuses on utilizing machine learning techniques for crop classification, with a Streamlit application for interactive use.
+- Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you a dataset which would 
+ allow the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.this project focuses on 
+ utilizing machine learning techniques for crop classification, with a Streamlit application for interactive use.
 
 ## Features
 - Machine Learning Algorithm: Utilizes state-of-the-art machine learning algorithms for crop classification.
