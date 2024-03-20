@@ -7,3 +7,4 @@ This project focuses on utilizing machine learning techniques for crop classific
 - Streamlit App: Provides an interactive web application built with Streamlit for easy visualization and usage of the classification model.
 
 ## Streamlit Screenshot
+![crop_stream1](https://github.com/inayatph/Crop-Prediction/assets/164138014/e0032929-b3c9-48a5-8086-e7babd322198)
